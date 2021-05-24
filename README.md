@@ -1,0 +1,2 @@
+# NuxtPractice
+Created with CodeSandbox
